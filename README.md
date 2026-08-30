@@ -1,4 +1,4 @@
-# 🧠 Resume Classifier – Piramal Finance Hackathon (Apr 2024)
+# 🧠 Resume Classifier 
 
 An end-to-end machine learning pipeline to classify resumes from unstructured `.pdf`/`.docx` files and structured `.csv` metadata. Built for Piramal Finance Hackathon 2024 using advanced NLP techniques and classical ML models.
 
